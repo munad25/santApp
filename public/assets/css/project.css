@@ -1,0 +1,55 @@
+.btn-detail-project, .btn-progress-project{
+	color: #FFFFFF;
+	font-size: 10px;
+	background-color: #4db6ac;
+	margin-right: 5px;
+	padding: 3px 5px 3px 5px;
+	border-radius: 5px;
+	box-shadow: 0 0 5px #C4C4C4;
+
+}
+
+.status{
+	padding: 3px 8px 3px 8px;
+	margin-right: 5px;
+	border-radius: 10px;
+	font-size: 10px;
+	color: #FFFFFF;
+	box-shadow: 0 0 5px #C4C4C4;
+}
+
+.status.cancel{
+	background-color: #dd2c00;
+}
+
+.status.nego{
+	background-color: #4db6ac;
+}
+
+.status.complete{
+	background-color: #43a047;
+}
+
+.status.waited{
+	background-color: #757575;
+}
+.status.progress{
+	background-color: #ffff00;
+}
+
+.my-content{
+	padding-bottom: 10px;
+	border-bottom: 2px solid #A5A4A4;
+}
+
+.modal{
+	width: 95% !important;
+}
+
+.my-btn{
+	color: green;
+}
+
+.modal .modal-content{
+	padding: 5px;
+}

@@ -1,0 +1,86 @@
+body{
+	background-color: #fafafa;
+}
+.page-footer{
+	padding-top: 0;
+    color: #fff;
+    position: fixed;
+    bottom: -10px;
+    width: 100%;
+}
+
+.list-project {
+    padding-top: 23vh;
+    padding-bottom: 10vh;
+}
+.add-project{
+	background-color: #FFFFFF;
+	position: fixed;
+	margin-top: 8vh;
+	width: 100%;
+	z-index: 999;
+}
+
+.my-navbar{
+	position: fixed;
+	top: 0;
+	z-index: 999;
+}
+
+.font-action{
+	font-size: 1.3rem;
+}
+.action-label{
+	margin-top: -3px;
+	font-size: 0.6rem;
+}
+
+.card-image img{
+	max-height: 10vh;
+}
+
+.my-list label{
+	display: inline-block;
+	width: 30%;
+}
+
+.card .card-content {
+    padding: 10px 10px 20px 10px;
+    border-radius: 0 0 2px 2px;
+}
+
+.my-sidenav{
+	width: 100%;
+	background-image: linear-gradient(#FFFFFF , #FFFFFF, #E8E8E8);
+
+}
+
+.col.s12 img {
+    width: 40%;
+    margin-top: 5vh;
+}
+
+.close-nav-button{
+	font-size: 25px;
+	padding: 5px;
+}
+
+.btn.my-btn-submit{
+	width: 100%;
+}
+
+.card-button{
+	position: relative;
+
+}
+
+.deal-content p{
+	margin: 0;
+	padding: 0;
+}
+
+.deal-content p:first-child{
+	font-weight: bold;
+	font-size: 30px;
+	text-shadow: 0px 0px 4px #BCBCBC;
+}
